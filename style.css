@@ -21,12 +21,12 @@
 padding: 100px 20px;
 }
 .Wlc{
-    font-size: 70px;
+    font-size: 60px;
     line-height: 0%;
  
 }
 .Ror{
-font-size: 100px;
+font-size: 95px;
 font-weight: bold;
 line-height: 0%;
 }
@@ -74,12 +74,3 @@ text-decoration: underline;
     border: 1px solid #999;
     outline: none;
 }
-/*body{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-    background-image: url('B2.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}*/
